@@ -1,0 +1,5 @@
+version ver=1.0.0
+{
+    welcome_message("Welcome to Our Website!")
+    contact_email("info@example.com")
+}
